@@ -10,8 +10,8 @@ int main()
         else if(a == b || a == c || b == c){  
             printf("It's an Isosceles Triangle\n");  
         }  
-        else{  
-            printf("It's a Scalene Triangle\n");  
-        }  
+        // else{  
+        //     printf("It's a Scalene Triangle\n");  
+        // }  
     return 0;  
 }  
