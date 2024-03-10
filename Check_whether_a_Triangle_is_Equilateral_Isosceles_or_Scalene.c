@@ -1,9 +1,9 @@
-#include < stdio.h >  
-int main()  
-{  
-    float a, b, c, flag = 0;  
-    printf("Enter values for a, b and c\n");  
-    scanf("%f%f%f", &a, &b, &c);  
+// #include < stdio.h >  
+// int main()  
+// {  
+//     float a, b, c, flag = 0;  
+//     printf("Enter values for a, b and c\n");  
+//     scanf("%f%f%f", &a, &b, &c);  
         // if(a == b && b == c){  
         //     printf("It's an Equilateral Triangle\n");  
         // }  
@@ -13,5 +13,5 @@ int main()
         // else{  
         //     printf("It's a Scalene Triangle\n");  
         // }  
-    return 0;  
-}  
+    // return 0;  
+// }  
